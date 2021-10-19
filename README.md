@@ -3,4 +3,6 @@
 
  Repositório criado durante uma aula ao vivo!
 
-Adicionei essa linha diretamente pelo site!
+Olá! Me chamo Matheus e estou aprendendo a programar... 
+Comecei agora a usar o GitHub, 16/10/2021...
+
